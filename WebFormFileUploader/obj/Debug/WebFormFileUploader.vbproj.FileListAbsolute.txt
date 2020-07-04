@@ -1,8 +1,0 @@
-c:\users\jess\documents\visual studio 2010\Projects\WebFormFileUploader\WebFormFileUploader\bin\WebFormFileUploader.dll
-c:\users\jess\documents\visual studio 2010\Projects\WebFormFileUploader\WebFormFileUploader\bin\WebFormFileUploader.pdb
-c:\users\jess\documents\visual studio 2010\Projects\WebFormFileUploader\WebFormFileUploader\bin\WebFormFileUploader.xml
-c:\users\jess\documents\visual studio 2010\Projects\WebFormFileUploader\WebFormFileUploader\obj\Debug\WebFormFileUploader.Resources.resources
-c:\users\jess\documents\visual studio 2010\Projects\WebFormFileUploader\WebFormFileUploader\obj\Debug\WebFormFileUploader.vbproj.GenerateResource.Cache
-c:\users\jess\documents\visual studio 2010\Projects\WebFormFileUploader\WebFormFileUploader\obj\Debug\WebFormFileUploader.dll
-c:\users\jess\documents\visual studio 2010\Projects\WebFormFileUploader\WebFormFileUploader\obj\Debug\WebFormFileUploader.xml
-c:\users\jess\documents\visual studio 2010\Projects\WebFormFileUploader\WebFormFileUploader\obj\Debug\WebFormFileUploader.pdb
